@@ -11,4 +11,4 @@ Grayscale → Gaussian blur → threshold → find contours → print the count.
 - sys
 
 ## Usage
-    python main.py path/to/image.jpg
+    python src/main.py path/to/image.jpg
